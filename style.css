@@ -8,11 +8,10 @@
     color: #000000;
     width: 56%;
   }
-  
   .content__container {
     font-weight: 600;
     overflow: hidden;
-    height: 35px;
+    height: 40px;
     /*padding: 0 40px;*/
     width: 125%;
   }
